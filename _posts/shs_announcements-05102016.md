@@ -1,7 +1,7 @@
 # Shepherd High School Announcements
 
 ---
-post_title: '*Shepherd High School announcements for Tuesday, May 10, 2016:*'
+post_title: 'Shepherd High School announcements for Tuesday, May 10, 2016:'
 layout: post
 published: false
 ---
