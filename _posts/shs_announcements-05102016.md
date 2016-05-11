@@ -13,5 +13,5 @@ published: false
 * Students, overdue library notices have been emailed to your student accounts. Please check your email to see if you have an overdue book or a library fine.
 * Juniors: Stop in the counseling office to pick up your CollegeBoard form. This allows you to send your SAT scores to Colleges and Universities free until May 16th. After May 16th you may still send scores, however, there will be a fee.
 * Boys basketball open gym tonight at 7:00.
-* Congratulations to our J.V. girls softball who won again beating Bullock Creek 7-1 and 2-0. They improved their record to 22-0. Congratulations lady jays!
+* Congratulations to our J.V. girls softball who won again beating Bullock Creek 7-1 and 2-0. They improved their record to 22-0. Congratulations lady jays!123
 
