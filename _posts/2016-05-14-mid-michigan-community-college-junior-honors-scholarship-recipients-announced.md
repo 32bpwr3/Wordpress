@@ -8,8 +8,11 @@ layout: post
 permalink: >
   http://news.shepherdmaplesyrupfest.org/mid-michigan-community-college-junior-honors-scholarship-recipients-announced/
 published: true
+post_views_count:
+  - "0"
 ---
-[Image: https://shepherdjournal.quip.com/-/blob/OLRAAAOHhQk/zknwml4JeA92nrFNa060WQ] *From the [Shepherd Middle School][1]:* 
+![][1] *From the [Shepherd Middle School][2]:* 
 > Congratulations, Aiden Judge and Sarah Lator, Shepherd Middle School's 2016 recipients of the Mid Michigan Community College Junior Honor's Scholarship! They received their awards today at a special luncheon for the winners. Pictured left to right: Sarah Lator, Julie Wright (counselor) and Aiden Judge.
 
- [1]: https://www.facebook.com/sms.shepherdmi/?fref=nf
+ [1]: https://shepherdjournal.quip.com/blob/OLRAAAOHhQk/zknwml4JeA92nrFNa060WQ
+ [2]: https://www.facebook.com/sms.shepherdmi/?fref=nf
