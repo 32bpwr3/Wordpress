@@ -12,5 +12,7 @@ permalink: >
 published: true
 post_views_count:
   - "0"
+process_flickr_shortcode:
+  - "1"
 ---
 [flickr] The Shepherd High School Women’s and Concert Choir performed a wide selection of music Friday night. Selections included “Hope is a Hidden Star,” “One Day More,” and “I Lived.” After the Concert Choir performed, choir director Kyle Howard turned the stage over to the Seniors who performed numbers such as “All about that base.” Next, members of the choir took turns recognizing a graduating senior.      
