@@ -1,18 +1,5 @@
----
-ID: 165
-post_title: >
-  Upcoming Dates of Interest for the
-  Shepherd High School
-author: ng23055
-post_date: 2016-05-14 23:13:03
-post_excerpt: ""
-layout: post
-permalink: >
-  http://news.shepherdmaplesyrupfest.org/upcoming-dates-of-interest-for-the-shepherd-high-school/
-published: true
-post_views_count:
-  - "0"
----
+# Upcoming Dates of Interest for the Shepherd High School
+
 <p id="h.dlvpm3i8itm8">
 </p>
 
