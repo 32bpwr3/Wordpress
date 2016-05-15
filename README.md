@@ -1,1 +1,1 @@
-# Wordpress
+# The Shepherd Journal
