@@ -1,10 +1,6 @@
-# Shepherd High School Announcements
+# Shepherd High School announcements for Tuesday, May 10, 2016
 
----
-post_title: 'Shepherd High School announcements for Tuesday, May 10, 2016:'
-layout: post
-published: false
----
+
 * Students, Staff and Parents: Don't forget to order and pay for your 2016 yearbook by **Friday, May 13** and your name will be included in a drawing for 2 free tickets to Florida Georgia Line at the Soaring Eagle Casino and Resort on June 16! You may order online at Jostens.com or contact Mrs. Bellinger at [jbellinger@shepherdschools.net](mailto:jbellinger@shepherdschools.net). Don't miss out on your high school memories!
 * Seniors, Mrs. Yeagley is putting together an art gallery in the atrium for the day of your graduation! Do you have any artwork from the past four years that you would like to be shown during graduation? We would love to showcase it! Please drop off your artwork in the office or to the art room by 3:00pm on **Friday May 20th**. Any questions contact Mrs. Yeagley.
 * Attention Class of 2017 and 2018, Junior and Seniors: If you are interested in a Co-Op position in the elementary office for the 2016-2017 school year, please submit your cover letter and resume to Mrs. Gauthier no later than** May 13**. There are two positions available. This is a paid position.
