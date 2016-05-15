@@ -1,16 +1,4 @@
----
-ID: 184
-post_title: >
-  Praise Given for SHS Students following
-  After Prom
-author: ng23055
-post_date: 2016-05-14 22:29:22
-post_excerpt: ""
-layout: post
-permalink: >
-  http://news.shepherdmaplesyrupfest.org/praise-given-for-shs-students-following-after-prom/
-published: true
----
+# Praise Given for SHS Students following After Prom
 <p id="h.9wg6chuyn71r">
   <em>From the <a href="https://www.google.com/url?q=https://www.facebook.com/shepherdmihs/?fref%3Dnf&sa=D&ust=1463268467032000&usg=AFQjCNGQPcFy7PIl1Jmav48lvztgA-Tp0A">Shepherd High School</a>:</em>
 </p>
