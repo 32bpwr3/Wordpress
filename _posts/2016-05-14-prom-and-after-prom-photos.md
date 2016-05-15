@@ -1,16 +1,5 @@
----
-ID: 182
-post_title: Prom and After Prom Galleries
-author: ng23055
-post_date: 2016-05-14 22:39:44
-post_excerpt: ""
-layout: post
-permalink: >
-  http://news.shepherdmaplesyrupfest.org/prom-and-after-prom-photos/
-published: true
-post_views_count:
-  - "2"
----
+# Prom and After Prom Galleries
+
 <span style="font-weight: 400;">In case you missed it, here is a guide to the photo galleries which were posted on Facebook following the Prom last weekend. Most of the galleries are public, but some may not.</span> 
 ## [<span style="font-weight: 400;">Shepherd After Prom</span>][1]
 
