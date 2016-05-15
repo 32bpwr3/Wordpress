@@ -1,16 +1,5 @@
----
-ID: 129
-post_title: 'Parents&#8217; Night for Incoming Sixth Graders scheduled for May 18'
-author: ng23055
-post_date: 2016-05-14 18:17:38
-post_excerpt: ""
-layout: post
-permalink: >
-  http://news.shepherdmaplesyrupfest.org/sms-parent-night-scheduled-to-be-held-may-18/
-published: true
-post_views_count:
-  - "4"
----
+# Parents&#8217; Night for Incoming Sixth Graders scheduled for May 18
+
 <p id="h.eadwm17sn6kg">
   <em>From the <a href="https://www.google.com/url?q=https://www.facebook.com/sms.shepherdmi/?fref%3Dnf&sa=D&ust=1463253387073000&usg=AFQjCNEeAUFXJdz9gzVqpUSQMvPG9cow7w">Shepherd Middle School</a>:</em>
 </p>
